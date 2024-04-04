@@ -1,0 +1,144 @@
+body {
+    background: #f6f6fa;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    font-family: "Sofia Sans Condensed", sans-serif;
+}
+.klee-one-regular {
+    font-family: "Klee One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sofia-sans condensed-<uniquifier> {
+    font-family: "Sofia Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.sidebar {
+    background: #e0ebfe;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+
+.sidebar-content {
+    padding-left: 0;
+    padding-top: 40px;
+    padding-right: 40px;
+    font-family: "Sofia Sans Condensed", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    box-sizing: border-box;
+}
+
+.title3{
+    font-weight: 900;
+    font-size: 34px;
+    font-style: normal;
+    font-family: "Klee One", cursive;
+    color: #bd790c;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+
+}
+
+
+.menu-item {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 171%;
+    color: #d87b24;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+.maincontn {
+    margin-top: 0;
+    padding-left: 4px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    font-weight: 400;
+    font-size: 22px;
+    box-sizing: border-box;
+}
+
+.wrapper2 {
+    display: flex;
+    flex-direction: row;
+    width: 870px;
+    margin: 0 auto;
+}
+
+.dscr-unit{
+    padding-left: 12px;
+    padding-top: 20px;
+    font-family: "Klee One";
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.user-poster{
+    padding-top: 8px;
+    width: 200px;
+    height: 150px;
+    max-width: 200px;
+    max-height: 150px;
+    min-width: 200px;
+    min-height: 150px;
+    object-position: center;
+    object-fit: contain;
+}
+
+.dskr-item {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 22px;
+    color: #149b14;
+    margin-left: 0;
+}
+
+.dskr2-item {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 22px;
+    color: #031a03;
+    margin-left: 0;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.blinking-text {
+    color: red;
+    font-size: 40px;
+    animation: blink 1s linear infinite;
+}

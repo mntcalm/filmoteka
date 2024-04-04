@@ -1,0 +1,83 @@
+swagger: '2.0'
+info:
+  description: 'Пытаемся подружиться со сваггером'
+  version: "1.0.0"
+  title: 'API каталога фильмов'
+
+servers:
+  - url: http://localhost/docs
+    title: каталог фильмов
+
+paths:
+  /perechen:
+    get:
+      summary: Получение списка фильмов
+      parameters:
+        - name: ff_n
+          description: Название фильма, строка
+          in: query
+          required: false
+          allowEmptyValue: true
+          type: string
+        - name: jj_id
+          in: query
+          description: 'Параметр jj_id (id жанра)'
+          type: integer
+          required: false
+          allowEmptyValue: true
+        - name: rr_id
+          in: query
+          type: integer
+          required: false
+          allowEmptyValue: true
+          description: Параметр rr_id (id режиссера)
+        - name: gg_ot
+          type: integer
+          description: Дата начала (необязательный)
+          type: date
+        - in: query
+          name: gg_do
+          description: Дата окончания (необязательный)
+          type: string
+        - in: query
+          name: ww_sort
+          type: string
+          default: 'nosort'
+          description: Тип сортировки
+        - in: query
+          name: nn_pagin
+          type: integer
+          default: 10
+          description: Количество фильмов на странице
+        - in: query
+          name: pp_page
+          type: integer
+          default: 1
+          description: Номер страницы
+      responses:
+        '200':
+          description: Успешный ответ
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  movies:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        title:
+                          type: string
+                          description: 'some string'
+  /:
+    get:
+      summary: Приветствие
+      responses:
+        '200':
+          description: Успешный ответ
+          content:
+            application/json: 
+              schema:
+                type: object
+              

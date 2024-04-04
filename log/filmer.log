@@ -1,0 +1,1332 @@
+2024-03-22 18:30:10,668 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-22 18:30:10,670 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 18:30:12,027 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 18:30:12,030 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 18:30:45,570 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-22 18:30:45,666 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:01:16,506 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-22 19:01:16,507 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:01:17,582 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:01:17,584 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:17:21,146 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-22 19:17:21,272 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:17:50,713 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-22 19:17:50,714 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:17:51,790 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:17:51,791 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:18:09,145 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-22 19:18:09,146 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:18:10,220 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:18:10,221 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:18:26,676 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /perechen HTTP/1.1" 200 -
+2024-03-22 19:18:26,723 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-22 19:18:26,731 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-22 19:18:26,780 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-22 19:18:26,850 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-22 19:18:26,852 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-22 19:18:26,853 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-22 19:18:26,855 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-22 19:18:26,866 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-22 19:18:26,868 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-22 19:18:26,869 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:26] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-22 19:18:58,637 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:18:58] "GET /editing?film_id=10 HTTP/1.1" 200 -
+2024-03-22 19:19:07,986 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:07] "GET /user_edit HTTP/1.1" 200 -
+2024-03-22 19:19:12,577 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:12] "GET / HTTP/1.1" 200 -
+2024-03-22 19:19:15,461 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:15] "GET /perechen HTTP/1.1" 200 -
+2024-03-22 19:19:15,545 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:15] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-22 19:19:15,560 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:15] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-22 19:19:15,590 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:15] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-22 19:19:15,593 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:15] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-22 19:19:18,121 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:18] "GET /editing?film_id=10 HTTP/1.1" 200 -
+2024-03-22 19:19:21,207 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:19:21] "GET /delet_ing?film_id=10&film_name=Название%20A HTTP/1.1" 200 -
+2024-03-22 19:20:32,588 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:20:32] "GET /delet_ing?film_id=10&film_name=Название%20A HTTP/1.1" 200 -
+2024-03-22 19:20:32,670 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:20:32] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-22 19:20:32,688 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:20:32] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-22 19:20:32,813 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:20:32] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-22 19:30:18,841 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:30:18] "GET /logout HTTP/1.1" 302 -
+2024-03-22 19:30:18,876 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:30:18] "GET / HTTP/1.1" 200 -
+2024-03-22 19:30:28,958 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:30:28] "GET /login HTTP/1.1" 200 -
+2024-03-22 19:30:30,592 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:30:30] "POST /login HTTP/1.1" 302 -
+2024-03-22 19:30:30,772 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:30:30] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-22 19:45:39,902 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-22 19:45:40,060 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:45:41,228 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:45:41,229 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:54:32,186 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-22 19:54:32,260 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:54:33,423 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:54:33,424 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:54:42,974 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-22 19:54:42,975 - werkzeug - INFO -  * Restarting with stat
+2024-03-22 19:54:44,076 - werkzeug - WARNING -  * Debugger is active!
+2024-03-22 19:54:44,077 - werkzeug - INFO -  * Debugger PIN: 149-199-074
+2024-03-22 19:54:56,292 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:56] "GET /perechen HTTP/1.1" 200 -
+2024-03-22 19:54:56,399 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:56] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-22 19:54:56,403 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:56] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-22 19:54:56,415 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:56] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-22 19:54:56,422 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:56] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-22 19:54:58,952 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:54:58] "GET /editing?film_id=10 HTTP/1.1" 200 -
+2024-03-22 19:55:24,666 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:55:24] "POST /editing HTTP/1.1" 302 -
+2024-03-22 19:55:25,352 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:55:25] "GET /editingsql?f_n=Название+A&f_id=10&j_id=2&r_id=4&k_o=Описание+фильма+%3D%3D%3D%3D%3D10%3D%3D%3D%3D%3D%3D+можно+многое+рассказать+об+этом+фильме...+Здесь+текст-болванка%2C+-+хотите+редактируйте%2C+а+хотите+-+нет.+В+любом+случае+что-то+добавляем+текст+&d_r=2012-02-13&f_u=without+uPdate HTTP/1.1" 302 -
+2024-03-22 19:55:26,556 - werkzeug - INFO - 127.0.0.1 - - [22/Mar/2024 19:55:26] "GET /perechen?ff_n=Название+A&page=1 HTTP/1.1" 200 -
+2024-03-23 07:53:48,112 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 07:53:48,114 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 07:53:49,299 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 07:53:49,446 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 07:54:10,578 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 07:54:10] "GET /perechen?ff_n=Название+A&page=1 HTTP/1.1" 200 -
+2024-03-23 07:54:10,601 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 07:54:10] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-23 07:54:10,608 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 07:54:10] "GET /static/img/otter_optim.png HTTP/1.1" 304 -
+2024-03-23 07:54:10,619 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 07:54:10] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-23 07:54:10,733 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 07:54:10] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-23 08:10:33,533 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 08:10:33,644 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 08:10:34,800 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 08:10:34,801 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 08:10:42,917 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 08:10:42,968 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 08:10:44,139 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 08:10:44,140 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 08:11:19,173 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 08:11:19,174 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 08:11:20,294 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 08:11:20,294 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 08:11:50,819 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 08:11:50] "GET /editing?film_id=10 HTTP/1.1" 200 -
+2024-03-23 08:12:12,691 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 08:12:12] "POST /editing HTTP/1.1" 302 -
+2024-03-23 08:12:13,299 - root - INFO - unit with ID=10 sucsessfuly edited by user2
+2024-03-23 08:12:13,303 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 08:12:13] "GET /editingsql?f_n=Название+A&f_id=10&j_id=2&r_id=4&k_o=Описание+фильма+%3D%3D%3D%3D%3D10%3D%3D%3D%3D%3D%3D+можно+многое+рассказать+об+этом+фильме...+Здесь+текст-болванка%2C+-+редактируйте%2C+а+хотите+-+нет.+В+любом+случае+что-то+добавляем+текст+&d_r=2012-02-13&f_u=without+uPdate HTTP/1.1" 302 -
+2024-03-23 08:12:14,596 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 08:12:14] "GET /perechen?ff_n=Название+A&page=1 HTTP/1.1" 200 -
+2024-03-23 09:09:15,835 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:09:16,212 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:09:17,451 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:09:17,452 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:11:01,928 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:11:01,994 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:11:26,611 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 09:11:26,612 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:11:27,740 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:11:27,741 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:12:09,410 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:12:09,480 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:12:10,541 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:12:10,542 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:13:13,397 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:13:13,443 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:13:14,552 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:13:14,553 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:30:39,260 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:30:39,330 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:30:40,470 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:30:40,471 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:33:24,862 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:33:24,930 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:33:26,063 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:33:26,064 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:33:36,229 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:33:36,298 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:33:37,400 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:33:37,401 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:37:04,598 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:37:04,643 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:37:05,729 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:37:05,729 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:37:46,248 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:37:46,288 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:37:47,398 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:37:47,400 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:39:21,793 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:39:21,854 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:39:22,835 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:39:22,836 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:42:26,726 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:42:26,792 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:44:06,393 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:48:57,417 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:48:57,419 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:48:59,449 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:49:00,682 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:00,683 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:49:03,664 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 09:49:03,666 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:49:04,785 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:04,786 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:49:07,747 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:49:07] "GET / HTTP/1.1" 200 -
+2024-03-23 09:49:29,146 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:49:29,212 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:49:30,141 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:30,142 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:49:37,257 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:49:37,321 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:49:38,449 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:38,450 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:49:41,494 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:49:41,554 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:49:42,777 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:42,778 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:49:48,003 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 09:49:48,004 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:49:49,125 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:49:49,126 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:50:28,321 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:28] "GET /logout HTTP/1.1" 500 -
+2024-03-23 09:50:28,370 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:28] "GET /logout?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2024-03-23 09:50:28,370 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:28] "GET /logout?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-23 09:50:28,371 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:28] "GET /logout?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-23 09:50:29,594 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:29] "GET /logout?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 09:50:30,264 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:50:30] "GET /logout?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 09:50:52,414 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:50:52,555 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:50:53,628 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:50:53,630 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:51:32,007 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:51:32] "GET /logout HTTP/1.1" 500 -
+2024-03-23 09:51:32,052 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:51:32] "GET /logout?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-23 09:51:32,061 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:51:32] "GET /logout?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2024-03-23 09:51:32,068 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:51:32] "GET /logout?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-23 09:51:33,320 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:51:33] "GET /logout?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 09:52:41,366 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 09:52:41,367 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:52:42,490 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:52:42,491 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:52:47,816 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:47] "GET / HTTP/1.1" 200 -
+2024-03-23 09:52:50,797 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /perechen HTTP/1.1" 200 -
+2024-03-23 09:52:50,839 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-23 09:52:50,850 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-23 09:52:50,860 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-23 09:52:50,865 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-23 09:52:50,866 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-23 09:52:50,878 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-23 09:52:50,880 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-23 09:52:50,882 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-23 09:52:50,893 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:52:50] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-23 09:53:06,092 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:53:06] "GET /editing?film_id=30 HTTP/1.1" 200 -
+2024-03-23 09:53:19,335 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:53:19] "POST /editing HTTP/1.1" 302 -
+2024-03-23 09:53:19,927 - root - INFO - unit with ID=30 sucsessfuly edited by user2
+2024-03-23 09:53:19,931 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:53:19] "GET /editingsql?f_n=Фильма+0&f_id=30&j_id=2&r_id=4&k_o=Описание+фильма+%3D%3D%3D%3D%3D10%3D%3D%3D%3D%3D%3D+можно+многое+рассказать+об+этом+фильме...+Здесь+текст-просто+текст%2C+-+хотите+редактируйте%2C+а+хотите+-+нет.+В+любом+случае+что-то+написать+нужно+-+вот+и+написано.&d_r=2002-02-13&f_u=without+uPdate HTTP/1.1" 302 -
+2024-03-23 09:53:20,953 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:53:20] "GET /perechen?ff_n=Фильма+0&page=1 HTTP/1.1" 200 -
+2024-03-23 09:53:33,476 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:53:33] "GET /adding HTTP/1.1" 200 -
+2024-03-23 09:54:01,703 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:01] "POST /adding HTTP/1.1" 302 -
+2024-03-23 09:54:02,935 - root - INFO - unit with ID=58 sucsessfuly added by user2
+2024-03-23 09:54:02,939 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:02] "GET /addingsql?f_n=Абырвалг447&f_d=явчаиэдщлтфуа%2CПЛДтьфвэАМЛд+ФЖВА+м%5Cждфьукапж%5Cдь&r_d=2024-03-05&f_u=RpauY7U8.png&f_j=1&f_r=2 HTTP/1.1" 302 -
+2024-03-23 09:54:04,167 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:04] "GET /perechen?ff_n=Абырвалг447&page=1 HTTP/1.1" 200 -
+2024-03-23 09:54:04,241 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:04] "GET /static/img/posters/perech58.png HTTP/1.1" 200 -
+2024-03-23 09:54:26,184 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:26] "GET /editing?film_id=58 HTTP/1.1" 200 -
+2024-03-23 09:54:28,962 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:28] "GET /delet_ing?film_id=58&film_name=Абырвалг447 HTTP/1.1" 200 -
+2024-03-23 09:54:37,318 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "POST /delet_ing HTTP/1.1" 500 -
+2024-03-23 09:54:37,368 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "GET /delet_ing?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-23 09:54:37,373 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "GET /delet_ing?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-23 09:54:37,374 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "GET /delet_ing?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2024-03-23 09:54:37,449 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "GET /delet_ing?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 09:54:37,461 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:54:37] "GET /delet_ing?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-23 09:55:38,616 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:55:38,667 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:55:39,827 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:55:39,828 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:55:42,060 - root - INFO - unit with ID=58 sucsessfuly deleted                 by user2
+2024-03-23 09:55:42,067 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:55:42] "POST /delet_ing HTTP/1.1" 302 -
+2024-03-23 09:55:42,513 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:55:42] "GET /deleted?result=Абырвалг447+++%3D+удалено+ HTTP/1.1" 200 -
+2024-03-23 09:56:26,856 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:26] "GET /logout HTTP/1.1" 302 -
+2024-03-23 09:56:26,894 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:26] "GET / HTTP/1.1" 200 -
+2024-03-23 09:56:30,107 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:30] "GET /login HTTP/1.1" 200 -
+2024-03-23 09:56:32,134 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-23 09:56:32,142 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:32] "POST /login HTTP/1.1" 302 -
+2024-03-23 09:56:32,341 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:32] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-23 09:56:56,205 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:56] "GET /logout HTTP/1.1" 302 -
+2024-03-23 09:56:56,228 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:56:56] "GET / HTTP/1.1" 200 -
+2024-03-23 09:57:38,774 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 09:57:38,839 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 09:57:39,952 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 09:57:39,953 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 09:57:43,315 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:57:43] "GET /login HTTP/1.1" 200 -
+2024-03-23 09:57:45,249 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-23 09:57:45,256 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:57:45] "POST /login HTTP/1.1" 302 -
+2024-03-23 09:57:45,463 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:57:45] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-23 09:57:54,875 - root - INFO - LOGOUT - OK: user2 logged out
+2024-03-23 09:57:54,880 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:57:54] "GET /logout HTTP/1.1" 302 -
+2024-03-23 09:57:54,907 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:57:54] "GET / HTTP/1.1" 200 -
+2024-03-23 09:58:24,133 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:58:24] "GET /login HTTP/1.1" 200 -
+2024-03-23 09:58:25,799 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-23 09:58:25,804 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:58:25] "POST /login HTTP/1.1" 302 -
+2024-03-23 09:58:26,009 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 09:58:26] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-23 11:25:41,712 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 11:25:42,178 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 11:25:43,546 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 11:25:43,547 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 11:29:17,632 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 11:29:17,636 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 11:29:18,855 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 11:29:18,855 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 11:30:10,051 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 11:30:10,118 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 11:30:11,316 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 11:30:11,317 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 11:44:24,191 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 11:44:24,277 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 11:44:25,468 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 11:44:25,468 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 11:55:16,048 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:16] "GET / HTTP/1.1" 200 -
+2024-03-23 11:55:19,168 - root - INFO - LOGOUT - OK: user2 logged out
+2024-03-23 11:55:19,176 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:19] "GET /logout HTTP/1.1" 302 -
+2024-03-23 11:55:19,200 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:19] "GET / HTTP/1.1" 200 -
+2024-03-23 11:55:22,760 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:22] "GET / HTTP/1.1" 200 -
+2024-03-23 11:55:27,276 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:27] "GET /login HTTP/1.1" 200 -
+2024-03-23 11:55:28,897 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-23 11:55:28,907 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:28] "POST /login HTTP/1.1" 302 -
+2024-03-23 11:55:29,104 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 11:55:29] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-23 12:03:30,470 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 12:03:30,668 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 12:03:31,938 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 12:03:31,939 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 12:43:21,793 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 12:43:21,797 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 12:43:23,004 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 12:43:23,006 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 12:43:39,420 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:39] "GET / HTTP/1.1" 200 -
+2024-03-23 12:43:44,858 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:44] "GET /perechen HTTP/1.1" 200 -
+2024-03-23 12:43:44,904 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:44] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-23 12:43:44,908 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:44] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-23 12:43:44,924 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:44] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-23 12:43:44,929 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:44] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-23 12:43:53,519 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 12:43:53] "GET /docs HTTP/1.1" 404 -
+2024-03-23 13:08:43,863 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:08:43] "GET / HTTP/1.1" 200 -
+2024-03-23 13:08:45,762 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:08:45] "GET / HTTP/1.1" 200 -
+2024-03-23 13:08:45,836 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:08:45] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-23 13:08:45,852 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:08:45] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-23 13:08:45,931 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:08:45] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-23 13:22:51,402 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 13:22:52,042 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 13:23:12,346 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 13:23:12,350 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 13:23:13,558 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 13:23:13,559 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 13:23:47,027 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:47] "GET /perechen HTTP/1.1" 200 -
+2024-03-23 13:23:47,128 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:47] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-23 13:23:47,150 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:47] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-23 13:23:47,154 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:47] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-23 13:23:47,157 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:47] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-23 13:23:51,185 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /apidocs HTTP/1.1" 308 -
+2024-03-23 13:23:51,483 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-23 13:23:51,522 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-03-23 13:23:51,524 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-23 13:23:51,529 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-03-23 13:23:51,530 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-03-23 13:23:51,827 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-23 13:23:51,840 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:23:51] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-03-23 13:35:01,601 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:35:01] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-23 13:35:01,959 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:35:01] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-23 13:35:36,110 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 13:35:36,207 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 13:35:37,512 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 13:35:37,513 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 13:35:41,112 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-23 13:35:41,115 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 13:35:42,344 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 13:35:42,345 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-23 13:35:47,534 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:35:47] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-23 13:35:47,743 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:35:47] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-23 13:36:03,914 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2024 13:36:03] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-23 15:20:59,556 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-23 15:20:59,866 - werkzeug - INFO -  * Restarting with stat
+2024-03-23 15:21:01,267 - werkzeug - WARNING -  * Debugger is active!
+2024-03-23 15:21:01,269 - werkzeug - INFO -  * Debugger PIN: 270-591-142
+2024-03-25 11:16:52,991 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:16:52,993 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:16:54,214 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:16:54,333 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:18:05,589 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:18:05,593 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:18:06,812 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:18:06,812 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:20:02,538 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:20:02,542 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:20:03,752 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:20:03,753 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:20:35,491 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 11:20:35,674 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:20:38,947 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:20:38,950 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:20:40,210 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:20:40,211 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:24:00,933 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:00] "GET / HTTP/1.1" 200 -
+2024-03-25 11:24:00,973 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:00] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-25 11:24:00,978 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:00] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-25 11:24:01,917 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:01] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-25 11:24:06,185 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:06] "GET /login HTTP/1.1" 200 -
+2024-03-25 11:24:09,110 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-25 11:24:09,115 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:09] "POST /login HTTP/1.1" 302 -
+2024-03-25 11:24:09,282 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:09] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-25 11:24:13,122 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /perechen HTTP/1.1" 200 -
+2024-03-25 11:24:13,147 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,151 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,171 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-25 11:24:13,172 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,174 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,175 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,178 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-25 11:24:13,180 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-25 11:24:13,198 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-25 11:24:13,202 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:13] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-25 11:24:15,700 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:24:15] "GET /help HTTP/1.1" 200 -
+2024-03-25 11:24:32,873 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 11:24:32,976 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:24:34,085 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:24:34,086 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:25:36,492 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 11:25:36,588 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:25:37,871 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:25:37,872 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:26:05,115 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:26:05,118 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:26:06,331 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:26:06,331 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:26:24,546 - root - INFO - LOGOUT - OK: user2 logged out
+2024-03-25 11:26:24,554 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:26:24] "GET /logout HTTP/1.1" 302 -
+2024-03-25 11:26:24,624 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:26:24] "GET / HTTP/1.1" 200 -
+2024-03-25 11:26:38,320 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:26:38] "GET /login HTTP/1.1" 200 -
+2024-03-25 11:26:40,007 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-25 11:26:40,016 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:26:40] "POST /login HTTP/1.1" 302 -
+2024-03-25 11:26:40,214 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:26:40] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-25 11:27:59,400 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:27:59] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 11:28:21,720 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:28:21] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 11:28:44,150 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:28:44] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 11:28:52,347 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 11:28:52,349 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 11:28:53,572 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 11:28:53,573 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 11:28:58,286 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 11:28:58] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 12:38:09,230 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 12:38:09] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 13:59:07,102 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 13:59:07] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-25 13:59:10,109 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 13:59:10] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 13:59:47,925 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 13:59:47] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-25 13:59:51,703 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 13:59:51] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:01:00,972 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:01:01,068 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:01:02,364 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:01:02,365 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:01:07,605 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:01:07] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:01:07,640 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:01:07] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-25 14:01:07,649 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:01:07] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-25 14:01:07,818 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:01:07] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-25 14:01:10,578 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:01:10] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:01:52,503 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:01:52,591 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:01:54,247 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:01:54,247 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:02:21,879 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:02:22,028 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:02:23,163 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:02:23,163 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:02:26,227 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:02:26,366 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:02:27,697 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:02:27,698 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:02:34,243 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 14:02:34,246 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:02:35,472 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:02:35,472 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:02:38,495 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:02:38] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:02:40,818 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:02:40] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:02:43,435 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:02:43] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:02:43,487 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:02:43] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-25 14:06:11,654 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:06:11] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:06:14,215 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:06:14] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:06:14,262 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:06:14] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-25 14:06:15,687 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:06:15] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:07:05,703 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:07:05] "GET /user_edit HTTP/1.1" 200 -
+2024-03-25 14:07:08,251 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:07:08] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:07:11,812 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:07:11] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:21:26,579 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:21:26] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:21:36,584 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:21:36] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:21:39,795 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:21:39] "GET /apidocs/ HTTP/1.1" 404 -
+2024-03-25 14:23:30,719 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:23:30,852 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:23:32,423 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:23:32,424 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:23:40,528 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 14:23:40,531 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:23:41,754 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:23:41,754 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:24:05,517 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:05] "GET /help HTTP/1.1" 200 -
+2024-03-25 14:24:05,582 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:05] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-25 14:24:05,592 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:05] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-25 14:24:05,759 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:05] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-25 14:24:07,931 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:07] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 14:24:07,963 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:07] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-03-25 14:24:07,970 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:07] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-25 14:24:07,982 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:07] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-03-25 14:24:07,984 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:07] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-03-25 14:24:08,322 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:08] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 14:24:37,220 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:37] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 14:24:37,686 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:24:37] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 14:28:50,113 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:28:50] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 14:30:16,844 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:30:16,905 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:30:17,974 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:30:17,975 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:33:16,615 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:33:16,749 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:33:18,352 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:33:18,353 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:33:22,347 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 14:33:22,350 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:33:23,570 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:33:23,571 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:33:31,682 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:33:31] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 14:33:31,847 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 14:33:31] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 14:44:59,841 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 14:44:59,908 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:45:01,140 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:45:01,140 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 14:45:05,118 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 14:45:05,121 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 14:45:06,450 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 14:45:06,450 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 15:14:36,955 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-25 15:14:37,037 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 15:14:38,234 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 15:14:38,235 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 15:14:43,021 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-25 15:14:43,024 - werkzeug - INFO -  * Restarting with stat
+2024-03-25 15:14:44,250 - werkzeug - WARNING -  * Debugger is active!
+2024-03-25 15:14:44,251 - werkzeug - INFO -  * Debugger PIN: 710-326-275
+2024-03-25 15:14:47,060 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 15:14:47] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 15:14:47,214 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 15:14:47] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 15:14:47,221 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 15:14:47] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 304 -
+2024-03-25 17:57:28,940 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 17:57:28] "GET /perechen HTTP/1.1" 200 -
+2024-03-25 17:57:29,186 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 17:57:29] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-25 17:57:29,191 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 17:57:29] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-25 17:57:29,195 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 17:57:29] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-25 17:57:29,200 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 17:57:29] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-25 18:22:03,404 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:03] "GET /perechen HTTP/1.1" 200 -
+2024-03-25 18:22:03,529 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:03] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-25 18:22:03,532 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:03] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-25 18:22:03,542 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:03] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-25 18:22:03,544 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:03] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-25 18:22:05,961 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:05] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 18:22:06,053 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:06] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-25 18:22:06,415 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:22:06] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 18:23:13,594 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 18:23:13,629 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-03-25 18:23:13,634 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-25 18:23:13,637 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-03-25 18:23:13,642 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-03-25 18:23:13,823 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 18:23:13,828 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:13] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-03-25 18:23:31,873 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:31] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-25 18:23:31,907 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:31] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-03-25 18:23:31,916 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:31] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-25 18:23:31,919 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:31] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-03-25 18:23:31,924 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:31] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-03-25 18:23:32,145 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:32] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-25 18:23:32,150 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 18:23:32] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-03-26 10:17:01,507 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-26 10:17:01,511 - werkzeug - INFO -  * Restarting with stat
+2024-03-26 10:17:02,701 - werkzeug - WARNING -  * Debugger is active!
+2024-03-26 10:17:02,829 - werkzeug - INFO -  * Debugger PIN: 154-177-999
+2024-03-26 10:17:43,571 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 10:17:43] "GET / HTTP/1.1" 200 -
+2024-03-26 10:17:43,608 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 10:17:43] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-26 10:17:43,608 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 10:17:43] "GET /static/img/otter_optim.png HTTP/1.1" 304 -
+2024-03-26 10:17:44,227 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 10:17:44] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-26 11:27:05,386 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /perechen HTTP/1.1" 200 -
+2024-03-26 11:27:05,579 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,584 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,585 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,590 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-26 11:27:05,592 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,597 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,602 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-26 11:27:05,603 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-26 11:27:05,613 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-26 11:27:05,617 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:05] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 11:27:48,498 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 11:27:48] "GET /login HTTP/1.1" 200 -
+2024-03-26 15:03:15,087 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-26 15:03:15,147 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:03:15] "POST /login HTTP/1.1" 302 -
+2024-03-26 15:03:15,392 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:03:15] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-26 15:06:26,333 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-26 15:06:26,337 - werkzeug - INFO -  * Restarting with stat
+2024-03-26 15:06:28,192 - werkzeug - WARNING -  * Debugger is active!
+2024-03-26 15:06:28,387 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-26 15:06:51,059 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:51] "GET / HTTP/1.1" 200 -
+2024-03-26 15:06:51,232 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:51] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-26 15:06:56,227 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:56] "GET /perechen HTTP/1.1" 200 -
+2024-03-26 15:06:56,410 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:56] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-26 15:06:56,424 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:56] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-26 15:06:56,439 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:56] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-26 15:06:56,446 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:06:56] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 15:07:10,406 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:10] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:07:11,409 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:11] "GET /perechen?ff_n=&jj_id=1&rr_id=3&gg_ot=&gg_do=&ww_sort=datev&nn_pagin=25&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:07:19,515 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:19] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:07:20,622 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:20] "GET /perechen?ff_n=&jj_id=1&rr_id=2&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:07:25,032 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:25] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:07:25,949 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:25] "GET /perechen?ff_n=&jj_id=1&rr_id=-8&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:07:25,989 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:25] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 15:07:25,999 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:25] "GET /static/img/posters/perech56.png HTTP/1.1" 200 -
+2024-03-26 15:07:34,162 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:34] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:07:35,198 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /perechen?ff_n=&jj_id=-8&rr_id=4&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:07:35,281 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 15:07:35,301 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech2.png HTTP/1.1" 404 -
+2024-03-26 15:07:35,318 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech3.png HTTP/1.1" 200 -
+2024-03-26 15:07:35,326 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech5.png HTTP/1.1" 200 -
+2024-03-26 15:07:35,331 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech7.png HTTP/1.1" 200 -
+2024-03-26 15:07:35,337 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech6.png HTTP/1.1" 200 -
+2024-03-26 15:07:35,338 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech8.png HTTP/1.1" 200 -
+2024-03-26 15:07:35,341 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:35] "GET /static/img/posters/perech9.png HTTP/1.1" 200 -
+2024-03-26 15:07:45,427 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:45] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:07:46,427 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:46] "GET /perechen?ff_n=&jj_id=1&rr_id=4&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:07:46,453 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:07:46] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 15:08:00,704 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:00] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 15:08:01,691 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /perechen?ff_n=&jj_id=3&rr_id=-8&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 15:08:01,798 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /None HTTP/1.1" 404 -
+2024-03-26 15:08:01,815 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /static/img/posters/perech50.png HTTP/1.1" 200 -
+2024-03-26 15:08:01,857 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /static/img/posters/perech54.png HTTP/1.1" 200 -
+2024-03-26 15:08:01,867 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /static/img/posters/perech52.png HTTP/1.1" 200 -
+2024-03-26 15:08:01,870 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /None HTTP/1.1" 404 -
+2024-03-26 15:08:01,884 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 15:08:01,884 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 15:08:01] "GET /static/img/posters/perech53.png HTTP/1.1" 200 -
+2024-03-26 17:25:08,969 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:08] "GET /apidocs/ HTTP/1.1" 200 -
+2024-03-26 17:25:08,992 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:08] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-03-26 17:25:09,004 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:09] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-03-26 17:25:09,029 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:09] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-03-26 17:25:09,030 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:09] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-03-26 17:25:09,342 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 17:25:09] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-03-26 20:40:55,211 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:40:55] "GET /editing?film_id=46 HTTP/1.1" 200 -
+2024-03-26 20:40:55,402 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:40:55] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:41:11,442 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:11] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:41:12,154 - root - INFO - unit with ID=46 sucsessfuly edited by user2
+2024-03-26 20:41:12,160 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:12] "GET /editingsql?f_n=Абырвалг5&f_id=46&j_id=3&r_id=3&k_o=яваи.длтфвами.длтфыАВМЛЬФЖЫЬ+вмЖ+Ьфыв&d_r=2024-02-27&f_u=ybvZZ74h.png HTTP/1.1" 302 -
+2024-03-26 20:41:13,461 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:13] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:41:13,558 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:13] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:13,571 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:13] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:41:19,551 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:19] "GET /editing?film_id=47 HTTP/1.1" 200 -
+2024-03-26 20:41:19,614 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:19] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:28,716 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:28] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:41:29,325 - root - INFO - unit with ID=47 sucsessfuly edited by user2
+2024-03-26 20:41:29,327 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:29] "GET /editingsql?f_n=Абырвалг5&f_id=47&j_id=3&r_id=3&k_o=яваи.длтфвами.длтфыАВМЛЬФЖЫЬ+вмЖ+Ьфыв&d_r=2024-02-27&f_u=gXpwPSD9.png HTTP/1.1" 302 -
+2024-03-26 20:41:30,454 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:30] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:41:30,537 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:30] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:41:30,563 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:30] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:35,576 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:35] "GET /editing?film_id=47 HTTP/1.1" 200 -
+2024-03-26 20:41:35,645 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:35] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:47,252 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:47] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:41:47,828 - root - INFO - unit with ID=47 sucsessfuly edited by user2
+2024-03-26 20:41:47,832 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:47] "GET /editingsql?f_n=Абырвалг5&f_id=47&j_id=3&r_id=3&k_o=яваи.длтфвами.длтфыАВМЛЬФЖЫЬ+вмЖ+Ьфыв&d_r=2024-02-27&f_u=YFxKNDfY.png HTTP/1.1" 302 -
+2024-03-26 20:41:49,043 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:49] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:41:49,124 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:49] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:41:49,128 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:49] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:53,090 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:53] "GET /editing?film_id=47 HTTP/1.1" 200 -
+2024-03-26 20:41:53,154 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:53] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:41:59,135 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:59] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:41:59,737 - root - INFO - unit with ID=47 sucsessfuly edited by user2
+2024-03-26 20:41:59,740 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:41:59] "GET /editingsql?f_n=Абырвалг5&f_id=47&j_id=3&r_id=3&k_o=яваи.длтфвами.длтфыАВМЛЬФЖЫЬ+вмЖ+Ьфыв&d_r=2024-02-27&f_u=4A0t7nBq.png HTTP/1.1" 302 -
+2024-03-26 20:42:00,970 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:00] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:42:01,064 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:01] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:42:01,081 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:01] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:42:05,918 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:05] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:42:05,985 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:05] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:42:06,018 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:06] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:42:34,249 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:42:34,338 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-26 20:42:34,365 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:42:34,368 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:42:34,371 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-26 20:42:34,534 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:34] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-26 20:42:43,010 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:43] "GET /editing?film_id=47 HTTP/1.1" 200 -
+2024-03-26 20:42:43,113 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:43] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:42:53,913 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:53] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:42:54,486 - root - INFO - unit with ID=47 sucsessfuly edited by user2
+2024-03-26 20:42:54,490 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:54] "GET /editingsql?f_n=Абырвалг5&f_id=47&j_id=3&r_id=3&k_o=яваи.длтфвами.длтфыАВМЛЬФЖЫЬ+вмЖ+Ьфыв&d_r=2024-02-27&f_u=rdURXg4c.png HTTP/1.1" 302 -
+2024-03-26 20:42:55,606 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:55] "GET /perechen?ff_n=Абырвалг5&page=1 HTTP/1.1" 200 -
+2024-03-26 20:42:55,698 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:55] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:42:55,706 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:42:55] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:43:14,808 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:14] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 20:43:15,746 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:15] "GET /perechen?ff_n=&jj_id=1&rr_id=-8&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 20:43:15,844 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:15] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 20:43:19,996 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:19] "GET /editing?film_id=0 HTTP/1.1" 200 -
+2024-03-26 20:43:20,080 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:20] "GET /static/img/posters/perech0.png HTTP/1.1" 404 -
+2024-03-26 20:43:29,365 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:29] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:43:30,073 - root - INFO - unit with ID=0 sucsessfuly edited by user2
+2024-03-26 20:43:30,078 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:30] "GET /editingsql?f_n=Название+0&f_id=0&j_id=1&r_id=4&k_o=Описание+фильма+%3D%3D%3D%3D%3D1%3D%3D%3D%3D%3D%3D+можно+многое+рассказать+об+этом+фильме...+Здесь+текст-болванка%2C+-+хотите+редактируйте%2C+а+хотите+-+нет.+В+любом+случае+что-то+написать+нужно+-+вот+и+написано.&d_r=2021-03-13&f_u=CyqzeTnp.png HTTP/1.1" 302 -
+2024-03-26 20:43:31,819 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:31] "GET /perechen?ff_n=Название+0&page=1 HTTP/1.1" 200 -
+2024-03-26 20:43:31,899 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:31] "GET /static/img/posters/perech0.png HTTP/1.1" 200 -
+2024-03-26 20:43:46,604 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:46] "POST /perechen HTTP/1.1" 302 -
+2024-03-26 20:43:47,567 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /perechen?ff_n=&jj_id=-8&rr_id=-8&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-26 20:43:47,609 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:43:47,623 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /static/img/posters/perech55.png HTTP/1.1" 200 -
+2024-03-26 20:43:47,649 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /static/img/posters/perech51.png HTTP/1.1" 200 -
+2024-03-26 20:43:47,655 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:43:47,686 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:47] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:43:55,245 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:55] "GET /editing?film_id=49 HTTP/1.1" 200 -
+2024-03-26 20:43:55,285 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:43:55] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:44:03,028 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:03] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:44:03,642 - root - INFO - unit with ID=49 sucsessfuly edited by user2
+2024-03-26 20:44:03,645 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:03] "GET /editingsql?f_n=Абырвалг22&f_id=49&j_id=3&r_id=3&k_o=фаувмфвыаимфваимфваим&d_r=2024-02-26&f_u=wtNcpKqY.png HTTP/1.1" 302 -
+2024-03-26 20:44:04,875 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:04] "GET /perechen?ff_n=Абырвалг22&page=1 HTTP/1.1" 200 -
+2024-03-26 20:44:04,949 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:04] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:44:26,685 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:26] "GET /editing?film_id=49 HTTP/1.1" 200 -
+2024-03-26 20:44:26,768 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:26] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:44:29,166 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:29] "GET /delet_ing?film_id=49&film_name=Абырвалг22 HTTP/1.1" 200 -
+2024-03-26 20:44:37,024 - root - INFO - unit with ID=49 sucsessfuly deleted                 by user2
+2024-03-26 20:44:37,029 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:37] "POST /delet_ing HTTP/1.1" 302 -
+2024-03-26 20:44:37,398 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:37] "GET /deleted?result=Абырвалг22+++%3D+удалено+ HTTP/1.1" 200 -
+2024-03-26 20:44:41,331 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:41] "GET /perechen HTTP/1.1" 200 -
+2024-03-26 20:44:41,421 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:41] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-26 20:44:41,426 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:41] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-26 20:44:41,436 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:44:41] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,127 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=2 HTTP/1.1" 200 -
+2024-03-26 20:45:00,217 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech14.png HTTP/1.1" 200 -
+2024-03-26 20:45:00,222 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,238 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech2.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,245 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech34.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,254 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech16.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,255 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech36.png HTTP/1.1" 404 -
+2024-03-26 20:45:00,257 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:00] "GET /static/img/posters/perech26.png HTTP/1.1" 404 -
+2024-03-26 20:45:15,385 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:15] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=3 HTTP/1.1" 200 -
+2024-03-26 20:45:15,409 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:15] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:45:15,423 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:15] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-26 20:45:15,455 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:15] "GET /None HTTP/1.1" 404 -
+2024-03-26 20:45:25,053 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:25] "GET /editing?film_id=51 HTTP/1.1" 200 -
+2024-03-26 20:45:32,806 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:32] "POST /editing HTTP/1.1" 302 -
+2024-03-26 20:45:33,447 - root - INFO - unit with ID=51 sucsessfuly edited by user2
+2024-03-26 20:45:33,452 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:33] "GET /editingsql?f_n=Абырвалг24&f_id=51&j_id=2&r_id=3&k_o=яваиывиывиывиыви&d_r=2024-03-04&f_u=FEAANBMW.png HTTP/1.1" 302 -
+2024-03-26 20:45:34,681 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:34] "GET /perechen?ff_n=Абырвалг24&page=1 HTTP/1.1" 200 -
+2024-03-26 20:45:43,690 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:43] "GET /perechen?ff_n=Абырвалг24&page=1 HTTP/1.1" 200 -
+2024-03-26 20:45:47,070 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:47] "GET /perechen?ff_n=Абырвалг24&page=1 HTTP/1.1" 200 -
+2024-03-26 20:45:47,172 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:47] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-03-26 20:45:47,190 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:47] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-26 20:45:47,196 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:47] "GET /static/img/posters/perech51.png HTTP/1.1" 200 -
+2024-03-26 20:45:47,379 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2024 20:45:47] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-27 10:26:01,304 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 10:26:02,285 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 10:26:03,894 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 10:26:03,896 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 10:26:40,784 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 10:26:40,872 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 10:26:42,089 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 10:26:42,090 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 10:29:16,521 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 10:29:16,606 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 10:29:17,797 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 10:29:17,798 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 10:30:15,127 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 10:30:15,234 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 10:30:16,848 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 10:30:16,850 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 11:39:23,047 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 11:39:23,331 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 11:39:24,667 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 11:39:24,668 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 11:42:09,707 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 11:42:09,791 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 12:39:03,278 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-27 12:39:03,281 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 12:39:04,853 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 12:39:04,854 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 12:39:11,818 - root - INFO - LOGOUT - OK: user2 logged out
+2024-03-27 12:39:11,824 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:11] "GET /logout HTTP/1.1" 302 -
+2024-03-27 12:39:11,888 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:11] "GET / HTTP/1.1" 200 -
+2024-03-27 12:39:12,071 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:12] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-27 12:39:12,116 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:12] "GET /static/img/otter_optim.png HTTP/1.1" 304 -
+2024-03-27 12:39:13,071 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:13] "GET /login HTTP/1.1" 200 -
+2024-03-27 12:39:14,917 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-27 12:39:14,923 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:14] "POST /login HTTP/1.1" 302 -
+2024-03-27 12:39:15,103 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:15] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-27 12:39:17,935 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 12:39:17,967 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-27 12:39:17,970 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-27 12:39:17,988 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 12:39:17,996 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-27 12:39:17,999 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:17] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 12:39:18,003 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:18] "GET /static/img/posters/perech0.png HTTP/1.1" 304 -
+2024-03-27 12:39:18,003 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:18] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-27 12:39:18,005 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:18] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-27 12:39:18,013 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:18] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-27 12:39:18,033 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:18] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 12:39:20,906 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:20] "GET /editing?film_id=30 HTTP/1.1" 200 -
+2024-03-27 12:39:35,909 - root - INFO - unit with ID=30 sucsessfuly edited by user2
+2024-03-27 12:39:35,918 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:35] "POST /editing HTTP/1.1" 200 -
+2024-03-27 12:39:43,801 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:43] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 12:39:43,901 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:43] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 12:39:43,904 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:43] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 12:39:43,916 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:39:43] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 12:44:29,090 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:29] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 12:44:29,208 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:29] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 12:44:29,222 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:29] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 12:44:29,238 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:29] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 12:44:31,644 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:31] "GET /editing?film_id=30 HTTP/1.1" 200 -
+2024-03-27 12:44:40,855 - root - INFO - unit with ID=30 sucsessfuly edited by user2
+2024-03-27 12:44:40,868 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:40] "POST /editing HTTP/1.1" 200 -
+2024-03-27 12:44:45,673 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:44:45] "GET /perechen?ff_n=Фильма%200&pp_page=1 HTTP/1.1" 200 -
+2024-03-27 12:45:50,081 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:45:50] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 12:45:50,126 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:45:50] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 12:45:50,130 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:45:50] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 12:45:50,156 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:45:50] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 12:45:52,538 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:45:52] "GET /editing?film_id=30 HTTP/1.1" 200 -
+2024-03-27 12:46:02,469 - root - INFO - unit with ID=30 sucsessfuly edited by user2
+2024-03-27 12:46:02,483 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:46:02] "POST /editing HTTP/1.1" 200 -
+2024-03-27 12:46:13,123 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:46:13] "GET /perechen?ff_n=Фильма%200&pp_page=1 HTTP/1.1" 200 -
+2024-03-27 12:47:03,811 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:03] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 12:47:03,943 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:03] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 12:47:03,952 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:03] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 12:47:03,955 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:03] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,037 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=2 HTTP/1.1" 200 -
+2024-03-27 12:47:09,130 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,138 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech14.png HTTP/1.1" 304 -
+2024-03-27 12:47:09,156 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech34.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,160 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech2.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,164 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech16.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,170 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech7.png HTTP/1.1" 304 -
+2024-03-27 12:47:09,176 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech8.png HTTP/1.1" 304 -
+2024-03-27 12:47:09,182 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech36.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,187 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech26.png HTTP/1.1" 404 -
+2024-03-27 12:47:09,189 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 12:47:09] "GET /static/img/posters/perech6.png HTTP/1.1" 304 -
+2024-03-27 12:47:35,585 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 12:47:35,675 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 12:47:37,020 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 12:47:37,020 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 12:47:40,076 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 12:47:40,160 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 12:47:41,430 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 12:47:41,430 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:14:46,882 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:14:47,602 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:14:49,048 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:14:49,048 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:16:17,685 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-27 16:16:17,690 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:16:18,907 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:16:18,908 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:17:00,804 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:00] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-03-27 16:17:00,878 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:00] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 16:17:00,883 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:00] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 16:17:00,895 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:00] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,759 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=2 HTTP/1.1" 200 -
+2024-03-27 16:17:10,819 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,824 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech34.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,839 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech26.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,841 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech2.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,843 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech16.png HTTP/1.1" 404 -
+2024-03-27 16:17:10,844 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:10] "GET /static/img/posters/perech36.png HTTP/1.1" 404 -
+2024-03-27 16:17:17,826 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=3 HTTP/1.1" 200 -
+2024-03-27 16:17:17,889 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /None HTTP/1.1" 404 -
+2024-03-27 16:17:17,901 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech52.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,911 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech53.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,914 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech54.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,931 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-03-27 16:17:17,933 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech50.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,942 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech55.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,947 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /None HTTP/1.1" 404 -
+2024-03-27 16:17:17,950 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech51.png HTTP/1.1" 304 -
+2024-03-27 16:17:17,953 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:17] "GET /static/img/posters/perech56.png HTTP/1.1" 304 -
+2024-03-27 16:17:23,607 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:23] "GET /editing?film_id=52 HTTP/1.1" 200 -
+2024-03-27 16:17:25,444 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:25] "GET /delet_ing?film_id=52&film_name=Абырвалг25 HTTP/1.1" 404 -
+2024-03-27 16:17:32,968 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:32] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-27 16:17:52,713 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:52] "GET /editing?film_id=52 HTTP/1.1" 200 -
+2024-03-27 16:17:55,299 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:17:55] "GET /deleting?film_id=52&film_name=Абырвалг25 HTTP/1.1" 200 -
+2024-03-27 16:18:58,787 - root - INFO - unit with ID=52 sucsessfuly deleted                 by user2
+2024-03-27 16:18:58,792 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:18:58] "POST /deleting HTTP/1.1" 302 -
+2024-03-27 16:18:59,213 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:18:59] "GET /deleted?result=Абырвалг25+++%3D+удалено+ HTTP/1.1" 200 -
+2024-03-27 16:19:09,193 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:09] "GET /perechen HTTP/1.1" 200 -
+2024-03-27 16:19:09,308 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:09] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-27 16:19:09,321 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:09] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-27 16:19:09,327 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:09] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,120 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=5 HTTP/1.1" 200 -
+2024-03-27 16:19:17,206 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech27.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,215 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech9.png HTTP/1.1" 304 -
+2024-03-27 16:19:17,246 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech3.png HTTP/1.1" 304 -
+2024-03-27 16:19:17,251 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech32.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,254 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech22.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,254 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech12.png HTTP/1.1" 200 -
+2024-03-27 16:19:17,261 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech13.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,263 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech23.png HTTP/1.1" 404 -
+2024-03-27 16:19:17,269 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:17] "GET /static/img/posters/perech33.png HTTP/1.1" 404 -
+2024-03-27 16:19:24,905 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:24] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=4 HTTP/1.1" 200 -
+2024-03-27 16:19:24,999 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:24] "GET /static/img/posters/perech20.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,014 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech39.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,021 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech29.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,022 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech19.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,029 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech38.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,035 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech18.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,038 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech28.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,047 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech5.png HTTP/1.1" 304 -
+2024-03-27 16:19:25,048 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech37.png HTTP/1.1" 404 -
+2024-03-27 16:19:25,052 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:19:25] "GET /static/img/posters/perech17.png HTTP/1.1" 404 -
+2024-03-27 16:20:24,433 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:20:24] "GET /adding HTTP/1.1" 200 -
+2024-03-27 16:27:28,382 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:27:28,459 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:27:29,681 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:27:29,682 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:28:39,140 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:28:39,234 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:28:40,536 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:28:40,537 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:28:46,620 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:28:46,707 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:28:48,033 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:28:48,034 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:30:08,945 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:30:09,035 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:30:10,159 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:30:10,160 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:41:10,340 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:41:10,421 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:41:11,646 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:41:11,647 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:41:33,114 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:41:33,209 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:41:34,393 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:41:34,393 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:43:00,792 - root - INFO - unit with ID=59 sucsessfuly added by user2
+2024-03-27 16:43:00,797 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:43:00] "POST /adding HTTP/1.1" 302 -
+2024-03-27 16:43:02,106 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:43:02] "GET /perechen?ff_n=Абырвалг222&page=1 HTTP/1.1" 200 -
+2024-03-27 16:43:02,131 - werkzeug - INFO - 127.0.0.1 - - [27/Mar/2024 16:43:02] "GET /static/img/posters/perech59.png HTTP/1.1" 200 -
+2024-03-27 16:43:46,535 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:43:46,615 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:43:47,701 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:43:47,702 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:44:33,832 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:44:33,930 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:44:35,027 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:44:35,028 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-27 16:44:55,408 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-27 16:44:55,498 - werkzeug - INFO -  * Restarting with stat
+2024-03-27 16:44:56,639 - werkzeug - WARNING -  * Debugger is active!
+2024-03-27 16:44:56,640 - werkzeug - INFO -  * Debugger PIN: 313-060-556
+2024-03-28 14:50:42,476 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-28 14:50:42,480 - werkzeug - INFO -  * Restarting with stat
+2024-03-28 14:50:43,696 - werkzeug - WARNING -  * Debugger is active!
+2024-03-28 14:50:43,813 - werkzeug - INFO -  * Debugger PIN: 322-113-714
+2024-03-28 14:50:54,778 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:54] "GET / HTTP/1.1" 200 -
+2024-03-28 14:50:54,859 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:54] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-28 14:50:54,896 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:54] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-28 14:50:55,151 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:55] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-28 14:50:57,274 - root - INFO - LOGOUT - OK: user2 logged out
+2024-03-28 14:50:57,280 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:57] "GET /logout HTTP/1.1" 302 -
+2024-03-28 14:50:57,322 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:57] "GET / HTTP/1.1" 200 -
+2024-03-28 14:50:58,988 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:50:58] "GET /login HTTP/1.1" 200 -
+2024-03-28 14:51:00,356 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-28 14:51:00,363 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:00] "POST /login HTTP/1.1" 302 -
+2024-03-28 14:51:00,553 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:00] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-28 14:51:07,095 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:07] "GET /help HTTP/1.1" 200 -
+2024-03-28 14:51:16,432 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /perechen HTTP/1.1" 200 -
+2024-03-28 14:51:16,459 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,469 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,473 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,478 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,484 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-28 14:51:16,494 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech0.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,499 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-28 14:51:16,502 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-28 14:51:16,503 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-28 14:51:16,505 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2024 14:51:16] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-29 13:14:55,282 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-29 13:14:55,286 - werkzeug - INFO -  * Restarting with stat
+2024-03-29 13:14:56,432 - werkzeug - WARNING -  * Debugger is active!
+2024-03-29 13:14:56,434 - werkzeug - INFO -  * Debugger PIN: 425-669-047
+2024-03-29 13:49:28,690 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /perechen HTTP/1.1" 200 -
+2024-03-29 13:49:28,754 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-29 13:49:28,758 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-29 13:49:28,795 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,838 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-29 13:49:28,839 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,843 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech0.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,846 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,848 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,850 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-29 13:49:28,859 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-29 13:49:28,868 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-29 13:49:28,869 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:28] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-29 13:49:29,069 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2024 13:49:29] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-30 09:58:36,886 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-30 09:58:36,890 - werkzeug - INFO -  * Restarting with stat
+2024-03-30 09:58:38,137 - werkzeug - WARNING -  * Debugger is active!
+2024-03-30 09:58:38,259 - werkzeug - INFO -  * Debugger PIN: 191-289-917
+2024-03-30 09:58:57,910 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:58:57] "GET / HTTP/1.1" 200 -
+2024-03-30 09:58:58,048 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:58:58] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-03-30 09:58:58,057 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:58:58] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-03-30 09:58:58,125 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:58:58] "GET /favicon.ico HTTP/1.1" 404 -
+2024-03-30 09:58:59,822 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:58:59] "GET /login HTTP/1.1" 200 -
+2024-03-30 09:59:01,909 - root - INFO - LOGIN - OK: user2 logged in
+2024-03-30 09:59:01,911 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:01] "POST /login HTTP/1.1" 302 -
+2024-03-30 09:59:02,076 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:02] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-03-30 09:59:04,771 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /perechen HTTP/1.1" 200 -
+2024-03-30 09:59:04,799 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech10.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,802 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech30.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,813 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,827 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-03-30 09:59:04,829 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech0.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,831 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,835 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech15.png HTTP/1.1" 404 -
+2024-03-30 09:59:04,836 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,841 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-03-30 09:59:04,849 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:04] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-03-30 09:59:07,423 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:07] "GET /editing?film_id=30 HTTP/1.1" 200 -
+2024-03-30 09:59:16,103 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "POST /editing HTTP/1.1" 500 -
+2024-03-30 09:59:16,157 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "GET /editing?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-30 09:59:16,160 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "GET /editing?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2024-03-30 09:59:16,164 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "GET /editing?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-30 09:59:16,273 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "GET /editing?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-30 09:59:16,287 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 09:59:16] "GET /editing?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-30 10:03:23,039 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-03-30 10:03:23,291 - werkzeug - INFO -  * Restarting with stat
+2024-03-30 10:03:24,775 - werkzeug - WARNING -  * Debugger is active!
+2024-03-30 10:03:24,777 - werkzeug - INFO -  * Debugger PIN: 191-289-917
+2024-03-30 10:03:28,618 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-03-30 10:03:28,622 - werkzeug - INFO -  * Restarting with stat
+2024-03-30 10:03:29,646 - werkzeug - WARNING -  * Debugger is active!
+2024-03-30 10:03:29,646 - werkzeug - INFO -  * Debugger PIN: 191-289-917
+2024-03-30 10:03:44,323 - root - INFO - unit with ID=30 sucsessfuly edited by user2
+2024-03-30 10:03:44,372 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 10:03:44] "POST /editing HTTP/1.1" 200 -
+2024-03-30 10:03:48,137 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2024 10:03:48] "GET /perechen?ff_n=Фильма%200&pp_page=1 HTTP/1.1" 200 -
+2024-04-02 13:56:20,779 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 13:56:20,782 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 13:56:21,894 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 13:56:22,021 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 13:56:37,790 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:37] "GET / HTTP/1.1" 200 -
+2024-04-02 13:56:37,829 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:37] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-04-02 13:56:37,858 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:37] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-04-02 13:56:38,230 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:38] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-02 13:56:40,463 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:40] "GET /login HTTP/1.1" 200 -
+2024-04-02 13:56:42,563 - root - INFO - LOGIN - OK: user2 logged in
+2024-04-02 13:56:42,576 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:42] "POST /login HTTP/1.1" 302 -
+2024-04-02 13:56:42,769 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:42] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-04-02 13:56:46,347 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 13:56:46,378 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-02 13:56:46,384 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-02 13:56:46,386 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-02 13:56:46,389 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-02 13:56:46,718 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 13:56:46,722 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 13:56:46] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 304 -
+2024-04-02 14:53:16,453 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:53:16] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:53:16,820 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:53:16] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:53:34,436 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 14:53:34,547 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 14:53:35,777 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 14:53:35,779 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 14:53:40,115 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 14:53:40,118 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 14:53:41,233 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 14:53:41,234 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 14:53:51,324 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:53:51] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:53:51,556 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:53:51] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:55:49,291 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 14:55:49,375 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 14:55:50,450 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 14:55:50,451 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 14:55:55,012 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:55:55,039 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-02 14:55:55,042 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-02 14:55:55,053 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-02 14:55:55,055 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-02 14:55:55,252 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:55:55,259 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:55] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-04-02 14:55:57,173 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:55:57] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-02 14:56:00,248 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:56:00] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:56:00,524 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:56:00] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:56:30,166 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:56:30] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:56:30,421 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:56:30] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:57:13,268 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 14:57:13,359 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-02 14:57:13,361 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-02 14:57:13,371 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-02 14:57:13,372 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-02 14:57:13,567 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:57:13,568 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:13] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-04-02 14:57:20,322 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:20] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 14:57:28,299 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 14:57:28] "GET / HTTP/1.1" 200 -
+2024-04-02 15:11:43,862 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:11:43] "GET /swagger HTTP/1.1" 404 -
+2024-04-02 15:11:52,586 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:11:52] "GET / HTTP/1.1" 200 -
+2024-04-02 15:13:02,731 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:13:02] "GET / HTTP/1.1" 200 -
+2024-04-02 15:13:56,270 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:13:56] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 15:20:26,740 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:20:26] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 15:20:27,140 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:20:27] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 15:20:33,420 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 15:20:33] "GET / HTTP/1.1" 200 -
+2024-04-02 15:43:11,088 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 15:43:11,093 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 15:43:12,118 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 15:43:12,119 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 17:09:25,573 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:09:25] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 17:09:40,005 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:09:40] "GET / HTTP/1.1" 200 -
+2024-04-02 17:11:49,309 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:11:49] "GET /defgafg HTTP/1.1" 404 -
+2024-04-02 17:11:56,782 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:11:56] "GET / HTTP/1.1" 200 -
+2024-04-02 17:15:20,713 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:15:20] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 17:20:51,552 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:20:51] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 17:20:51,898 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:20:51] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 17:21:00,141 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:21:00] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 17:21:59,090 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 17:21:59,213 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 17:22:00,757 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 17:22:00,759 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 17:23:27,593 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 17:23:27,677 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 17:23:28,782 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 17:23:28,792 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 17:23:37,136 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 17:23:37,139 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 17:23:38,240 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 17:23:38,241 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 17:23:53,050 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:23:53] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 17:23:53,229 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:23:53] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 17:24:01,307 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:24:01] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 17:30:55,862 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:30:55] "GET /perechen1 HTTP/1.1" 404 -
+2024-04-02 17:31:05,964 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:31:05] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 17:37:07,428 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:37:07] "GET / HTTP/1.1" 200 -
+2024-04-02 17:37:07,686 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:37:07] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-02 17:37:22,876 - root - INFO - LOGOUT - OK: user2 logged out
+2024-04-02 17:37:22,880 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:37:22] "GET /logout HTTP/1.1" 302 -
+2024-04-02 17:37:22,905 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:37:22] "GET / HTTP/1.1" 200 -
+2024-04-02 17:37:25,340 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:37:25] "GET / HTTP/1.1" 200 -
+2024-04-02 17:45:09,809 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:45:09] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 17:45:10,191 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:45:10] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 17:45:25,133 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 17:45:25] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 18:41:59,759 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 18:41:59] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 18:42:00,116 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 18:42:00] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 18:42:12,446 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 18:42:12] "GET / HTTP/1.1" 200 -
+2024-04-02 18:42:19,492 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 18:42:19] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 22:54:12,421 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 22:54:13,165 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 22:55:40,593 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 22:55:40,597 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 22:55:41,691 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 22:55:41,702 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 22:55:51,960 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:55:51] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 22:55:52,459 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:55:52] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-02 22:56:01,870 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:56:01] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 22:57:47,841 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-02 22:57:47,845 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 22:57:48,855 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 22:57:48,856 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-02 22:57:58,826 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:57:58] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-02 22:57:59,043 - root - ERROR - jsonify failure; defaulting to json.dumps
+Traceback (most recent call last):
+  File "/home/calltop/daa_python_film/filmotek/lib/python3.8/site-packages/flasgger/base.py", line 164, in get
+    return jsonify(self.loader())
+  File "/home/calltop/daa_python_film/filmotek/lib/python3.8/site-packages/flasgger/base.py", line 418, in get_apispecs
+    data.update(self.template)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+2024-04-02 22:57:59,071 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:57:59] "GET /apispec_1.json HTTP/1.1" 500 -
+2024-04-02 22:59:14,050 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2024 22:59:14] "GET /perechen HTTP/1.1" 200 -
+2024-04-02 22:59:25,185 - werkzeug - INFO -  * Detected change in '/home/calltop/daa_python_film/filmotek/filmoteka.py', reloading
+2024-04-02 22:59:25,331 - werkzeug - INFO -  * Restarting with stat
+2024-04-02 22:59:26,448 - werkzeug - WARNING -  * Debugger is active!
+2024-04-02 22:59:26,449 - werkzeug - INFO -  * Debugger PIN: 318-415-598
+2024-04-03 09:47:03,224 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-03 09:47:03,230 - werkzeug - INFO -  * Restarting with stat
+2024-04-03 09:47:04,415 - werkzeug - WARNING -  * Debugger is active!
+2024-04-03 09:47:04,613 - werkzeug - INFO -  * Debugger PIN: 150-017-881
+2024-04-03 09:47:22,859 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:22] "GET / HTTP/1.1" 200 -
+2024-04-03 09:47:22,907 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:22] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-04-03 09:47:22,920 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:22] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-04-03 09:47:24,297 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:24] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-03 09:47:26,035 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 09:47:26,077 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-03 09:47:26,078 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-03 09:47:26,091 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-03 09:47:26,120 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-03 09:47:26,410 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 09:47:26,411 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:26] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 304 -
+2024-04-03 09:47:47,688 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 09:47:47] "GET /perechen HTTP/1.1" 200 -
+2024-04-03 11:16:55,290 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:16:55] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 11:16:55,763 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:16:55] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 11:17:14,415 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:17:14] "GET /perechen HTTP/1.1" 200 -
+2024-04-03 11:17:29,076 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:17:29] "GET / HTTP/1.1" 200 -
+2024-04-03 11:17:31,121 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:17:31] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 11:17:31,414 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:17:31] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 11:22:58,538 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:22:58] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 11:22:58,918 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 11:22:58] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 12:29:02,195 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:02] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 12:29:02,601 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:02] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 12:29:09,208 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 12:29:09,292 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-03 12:29:09,316 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-03 12:29:09,324 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-03 12:29:09,328 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-03 12:29:09,547 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 12:29:09] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 15:00:40,956 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:40] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 15:00:41,392 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:41] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 15:00:48,976 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:48] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 15:00:49,024 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-03 15:00:49,024 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-03 15:00:49,026 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-03 15:00:49,033 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-03 15:00:49,240 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 15:00:49,242 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:49] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2024-04-03 15:00:54,486 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:54] "GET / HTTP/1.1" 200 -
+2024-04-03 15:00:54,535 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:54] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-03 15:00:57,901 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:57] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-03 15:00:58,184 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:00:58] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-03 15:28:17,035 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:28:17] "GET / HTTP/1.1" 200 -
+2024-04-03 15:28:23,224 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:28:23] "GET /login HTTP/1.1" 200 -
+2024-04-03 15:28:25,719 - root - INFO - LOGIN - OK: user2 logged in
+2024-04-03 15:28:25,749 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:28:25] "POST /login HTTP/1.1" 302 -
+2024-04-03 15:28:26,003 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:28:26] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-04-03 15:29:01,579 - root - INFO - LOGOUT - OK: user2 logged out
+2024-04-03 15:29:01,588 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:29:01] "GET /logout HTTP/1.1" 302 -
+2024-04-03 15:29:01,609 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:29:01] "GET / HTTP/1.1" 200 -
+2024-04-03 15:29:06,059 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:29:06] "GET /login HTTP/1.1" 200 -
+2024-04-03 15:29:09,824 - root - INFO - LOGIN - OK: user2 logged in
+2024-04-03 15:29:09,829 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:29:09] "POST /login HTTP/1.1" 302 -
+2024-04-03 15:29:10,008 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2024 15:29:10] "GET /?f_msg=Вы+успешно+авторизованы+как+user2 HTTP/1.1" 200 -
+2024-04-04 12:12:35,201 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-04 12:12:35,205 - werkzeug - INFO -  * Restarting with stat
+2024-04-04 12:12:36,259 - werkzeug - WARNING -  * Debugger is active!
+2024-04-04 12:12:36,393 - werkzeug - INFO -  * Debugger PIN: 389-919-154
+2024-04-04 12:12:44,709 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:44] "GET / HTTP/1.1" 200 -
+2024-04-04 12:12:44,777 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:44] "GET /static/css/styles.css HTTP/1.1" 304 -
+2024-04-04 12:12:44,782 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:44] "GET /static/img/otter_optim.png HTTP/1.1" 304 -
+2024-04-04 12:12:44,929 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:44] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 12:12:47,133 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:12:47,170 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 12:12:47,181 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 12:12:47,186 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 12:12:47,191 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 304 -
+2024-04-04 12:12:47,475 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:12:47] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:33:45,854 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:33:45] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:33:46,276 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:33:46] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:33:46,286 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:33:46] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 304 -
+2024-04-04 12:34:40,524 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:34:40] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:34:40,775 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:34:40] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:35:14,776 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:14] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:35:14,851 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:14] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 12:35:14,864 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:14] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 12:35:14,865 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:14] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 12:35:14,870 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:14] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 12:35:15,060 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:15] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:35:23,007 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:23] "GET / HTTP/1.1" 200 -
+2024-04-04 12:35:23,454 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:23] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 12:35:27,615 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:27] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:35:27,895 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:35:27] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:43:48,339 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:48] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:43:48,565 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:48] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:43:53,374 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:43:53,423 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 12:43:53,425 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 12:43:53,427 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 12:43:53,435 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 12:43:53,605 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:43:53] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:45:05,469 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:05] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:45:05,532 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:05] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 12:45:05,533 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:05] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 12:45:05,535 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:05] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 12:45:05,537 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:05] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 12:45:07,585 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:07] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:45:13,899 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:13] "GET / HTTP/1.1" 200 -
+2024-04-04 12:45:14,081 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:14] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 12:45:16,519 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:16] "GET / HTTP/1.1" 200 -
+2024-04-04 12:45:16,578 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:16] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-04-04 12:45:16,592 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:16] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-04-04 12:45:17,665 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:17] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 12:45:18,972 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:18] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:45:19,265 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:45:19] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 12:46:45,928 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:45] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 12:46:45,988 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:45] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 12:46:45,989 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:45] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 12:46:45,994 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:45] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 12:46:45,999 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:45] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 12:46:46,197 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 12:46:46] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:07:39,741 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:07:39] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:07:40,135 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:07:40] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:08:41,873 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:08:41] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:08:42,161 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:08:42] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:09:07,518 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:09:07,580 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 13:09:07,581 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 13:09:07,586 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 13:09:07,598 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 13:09:07,762 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:07] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:09:51,395 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:51] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:09:51,667 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:51] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:09:56,284 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:09:56,315 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2024-04-04 13:09:56,329 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-04-04 13:09:56,329 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2024-04-04 13:09:56,332 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-04-04 13:09:56,500 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:09:56] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:10:02,034 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:02] "GET / HTTP/1.1" 200 -
+2024-04-04 13:10:02,344 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:02] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 13:10:04,093 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:04] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:10:04,299 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:04] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:10:21,329 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-04 13:10:21,333 - werkzeug - INFO -  * Restarting with stat
+2024-04-04 13:10:22,447 - werkzeug - WARNING -  * Debugger is active!
+2024-04-04 13:10:22,448 - werkzeug - INFO -  * Debugger PIN: 389-919-154
+2024-04-04 13:10:50,036 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:50] "GET / HTTP/1.1" 200 -
+2024-04-04 13:10:51,524 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:51] "GET / HTTP/1.1" 200 -
+2024-04-04 13:10:51,568 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:51] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-04-04 13:10:51,580 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:51] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-04-04 13:10:51,675 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:51] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 13:10:54,114 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:54] "GET /apidocs/ HTTP/1.1" 200 -
+2024-04-04 13:10:54,269 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:10:54] "GET /apispec_1.json HTTP/1.1" 200 -
+2024-04-04 13:14:07,898 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:07] "GET / HTTP/1.1" 200 -
+2024-04-04 13:14:11,019 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /perechen HTTP/1.1" 200 -
+2024-04-04 13:14:11,043 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech10.png HTTP/1.1" 200 -
+2024-04-04 13:14:11,046 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech30.png HTTP/1.1" 200 -
+2024-04-04 13:14:11,060 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech11.png HTTP/1.1" 304 -
+2024-04-04 13:14:11,065 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-04-04 13:14:11,069 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech21.png HTTP/1.1" 304 -
+2024-04-04 13:14:11,076 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech1.png HTTP/1.1" 304 -
+2024-04-04 13:14:11,078 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech0.png HTTP/1.1" 304 -
+2024-04-04 13:14:11,083 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-04-04 13:14:11,084 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-04-04 13:14:11,085 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:14:11] "GET /static/img/posters/perech4.png HTTP/1.1" 304 -
+2024-04-04 13:42:21,349 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:21] "POST /perechen HTTP/1.1" 302 -
+2024-04-04 13:42:22,249 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:22] "GET /perechen?ff_n=&jj_id=2&rr_id=3&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-04-04 13:42:22,412 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:22] "GET /static/img/posters/perech62.png HTTP/1.1" 404 -
+2024-04-04 13:42:22,432 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:22] "GET /static/img/posters/perech51.png HTTP/1.1" 200 -
+2024-04-04 13:42:22,472 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:22] "GET /static/img/posters/perech39.png HTTP/1.1" 404 -
+2024-04-04 13:42:22,476 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:42:22] "GET /static/img/posters/perech57.png HTTP/1.1" 200 -
+2024-04-04 13:49:14,611 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:14] "POST /perechen HTTP/1.1" 302 -
+2024-04-04 13:49:15,545 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /perechen?ff_n=&jj_id=-8&rr_id=2&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-04-04 13:49:15,644 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /static/img/posters/perech32.png HTTP/1.1" 404 -
+2024-04-04 13:49:15,655 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /static/img/posters/perech33.png HTTP/1.1" 404 -
+2024-04-04 13:49:15,677 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-04-04 13:49:15,680 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /static/img/posters/perech34.png HTTP/1.1" 404 -
+2024-04-04 13:49:15,684 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 13:49:15] "GET /static/img/posters/perech36.png HTTP/1.1" 404 -
+2024-04-04 14:02:05,277 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:05] "POST /perechen HTTP/1.1" 302 -
+2024-04-04 14:02:06,055 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /perechen?ff_n=&jj_id=-8&rr_id=-8&gg_ot=&gg_do=&ww_sort=nosort&nn_pagin=10&pp_page=1 HTTP/1.1" 200 -
+2024-04-04 14:02:06,165 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech62.png HTTP/1.1" 404 -
+2024-04-04 14:02:06,182 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech50.png HTTP/1.1" 200 -
+2024-04-04 14:02:06,183 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech59.png HTTP/1.1" 200 -
+2024-04-04 14:02:06,185 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech53.png HTTP/1.1" 200 -
+2024-04-04 14:02:06,191 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech54.png HTTP/1.1" 200 -
+2024-04-04 14:02:06,193 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /None HTTP/1.1" 404 -
+2024-04-04 14:02:06,196 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/perech55.png HTTP/1.1" 200 -
+2024-04-04 14:02:06,212 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 14:02:06] "GET /static/img/posters/JKbTUc8H.png HTTP/1.1" 404 -
+2024-04-04 15:04:20,314 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-04-04 15:04:20,317 - werkzeug - INFO -  * Restarting with stat
+2024-04-04 15:04:21,371 - werkzeug - WARNING -  * Debugger is active!
+2024-04-04 15:04:21,375 - werkzeug - INFO -  * Debugger PIN: 389-919-154
+2024-04-04 15:04:41,032 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:41] "GET / HTTP/1.1" 200 -
+2024-04-04 15:04:44,643 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:44] "GET /perechen HTTP/1.1" 200 -
+2024-04-04 15:04:44,685 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:44] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-04-04 15:04:44,697 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:44] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-04-04 15:04:44,701 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:44] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,797 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /perechen HTTP/1.1" 200 -
+2024-04-04 15:04:48,870 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-04-04 15:04:48,892 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech10.png HTTP/1.1" 200 -
+2024-04-04 15:04:48,895 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech30.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,896 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/otter_optim.png HTTP/1.1" 200 -
+2024-04-04 15:04:48,902 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech21.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,904 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech11.png HTTP/1.1" 200 -
+2024-04-04 15:04:48,907 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech25.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,926 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech35.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,928 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech4.png HTTP/1.1" 200 -
+2024-04-04 15:04:48,929 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech1.png HTTP/1.1" 200 -
+2024-04-04 15:04:48,934 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-04-04 15:04:48,934 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:48] "GET /static/img/posters/perech0.png HTTP/1.1" 200 -
+2024-04-04 15:04:49,309 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:04:49] "GET /favicon.ico HTTP/1.1" 404 -
+2024-04-04 15:05:05,898 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:05] "GET /perechen?ff_n=&jj_id=-8&gg_ot=&gg_do=&ww_sort=&nn_pagin=10&pp_page=2 HTTP/1.1" 200 -
+2024-04-04 15:05:05,970 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:05] "GET /static/img/posters/perech34.png HTTP/1.1" 404 -
+2024-04-04 15:05:05,979 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:05] "GET /static/img/posters/perech24.png HTTP/1.1" 404 -
+2024-04-04 15:05:06,025 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech7.png HTTP/1.1" 200 -
+2024-04-04 15:05:06,029 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech6.png HTTP/1.1" 200 -
+2024-04-04 15:05:06,036 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech2.png HTTP/1.1" 404 -
+2024-04-04 15:05:06,037 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech16.png HTTP/1.1" 404 -
+2024-04-04 15:05:06,037 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech8.png HTTP/1.1" 200 -
+2024-04-04 15:05:06,044 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech36.png HTTP/1.1" 404 -
+2024-04-04 15:05:06,040 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech26.png HTTP/1.1" 404 -
+2024-04-04 15:05:06,049 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:06] "GET /static/img/posters/perech60.png HTTP/1.1" 404 -
+2024-04-04 15:05:58,547 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:05:58] "GET /adding HTTP/1.1" 200 -
+2024-04-04 15:07:01,193 - root - INFO - unit with ID=63 sucsessfuly added by user2
+2024-04-04 15:07:01,198 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:07:01] "POST /adding HTTP/1.1" 302 -
+2024-04-04 15:07:02,150 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:07:02] "GET /perechen?ff_n=Абырвалг+555&page=1 HTTP/1.1" 200 -
+2024-04-04 15:07:02,264 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:07:02] "GET /static/img/posters/perech63.png HTTP/1.1" 200 -
+2024-04-04 15:07:13,200 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:07:13] "GET /editing?film_id=63 HTTP/1.1" 200 -
+2024-04-04 15:51:20,180 - root - INFO - unit with ID=63 sucsessfuly edited by user2
+2024-04-04 15:51:20,232 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2024 15:51:20] "POST /editing HTTP/1.1" 200 -

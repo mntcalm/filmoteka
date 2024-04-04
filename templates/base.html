@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Films catalogue</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap" rel="stylesheet">
+ 
+    <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Sofia+Sans+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="static/css/styles.css">
+
+</head>
+<body>
+  <div class="wrapper">
+    <aside class="sidebar">
+      <span class="dskr-item"> Привет, любители искусства!</span> <br>
+      <img src="static/img/otter_optim.png" alt="Fotki Netu!!!" width="250"><br>
+      
+      {% if c_u is defined and c_u.name %}
+         <span class="dskr-item">вы вошли как {{ c_u.name }} <a href="/logout">Выйти</a></span><br>
+      {% else %}
+         <span class="dskr-item">Авторизуйтесь, гость <a href="/login">Войти</a></span><br>
+      {% endif %}
+      
+      <div class="sidebar-content">
+        <h3 class="title3">МЕНЮ</h3>  
+         <ul>
+              <li class="menu-item"><a href="/"> Начало </a></li>
+              <li class="menu-item"><a href="perechen">Просмотр каталога</a></li>
+              <li class="menu-item"><a href="adding">Добавить описание</a></li>
+            <!--  <li class="menu-item"><a href="editing">Редактирование</a></li>  -->
+              <li class="menu-item"><a href="user_edit">Управление пользователями</a></li>
+              <li class="menu-item"><a href="/help">ЧаВО (Help)</a></li>
+              <li class="menu-item"><a href="/apidocs">DOCs (swagger)</a></li>
+
+           </ul>
+
+
+
+      </div>
+
+    </aside>
+    <div class="maincontn">
+    {% block content %} <!-- вложенные шаблоны -->
+
+
+    {% endblock %}
+    </div>
+  </div>
+
+
+</body>
+</html>

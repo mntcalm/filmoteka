@@ -1,0 +1,16 @@
+Click==7.0
+Flask==1.1.1
+Flask-FlatPages==0.7.1
+Frozen-Flask==0.15
+Flask-login==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.10.3
+Markdown==3.1.1
+MarkupSafe==2.0.1
+Pygments==2.4.2
+PyYAML==5.1.2
+Werkzeug==0.16.0
+Dnspython==2.5.0
+psycopg2-binary==2.9.9
+Image==1.5.33
+Flasgger==0.9.7

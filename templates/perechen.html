@@ -1,0 +1,171 @@
+{% extends "base.html" %}
+{% block content %}
+{{ super() }}
+<h3 class="title3"> Просмотр картотеки</h3><br>
+
+
+<form method="POST" action="/perechen">
+  <table>
+    <tr>
+      <td><label for="f_name">Название</label></td>
+      <td><label for="janr">Жанр</label></td>
+      <td><label for="rejis">Режиссер</label></td>
+      <td><label for="god_ot">год (от)</label></td>
+      <td><label for="god_do">год (до)</label></td>
+      <td><label for="sortr">сортировать по:</label></td>
+      <td><label for="pagin">фильмов на стр.</label></td>
+      <td>&nbsp;</td>
+        
+    </tr>
+    <tr>
+      <td><input type="text" id="f_name" name="f_name"></td>
+      <td><select name="janr" id="janr">
+         {% for m in janre_list %}
+         <option value="{{ m.id }}">{{ m.j_name }}</option>
+         {% endfor %}
+          </select></td>
+      <td><select name="regis" id="regis">
+         {% for m in regis_list %}
+         <option value="{{ m.id }}">{{ m.r_name }}</option>
+         {% endfor %}
+         </select></td>
+      
+      <td><input type="text" id="god_ot" name="god_ot" pattern="\d{4}" size="4" maxlength="4"></td>
+      <td><input type="text" id="god_do" name="god_do" pattern="\d{4}" size="4" maxlength="4"></td>
+      <td><select name="sortr" id="sortr">
+        <option value="nosort">не сортировать</option>
+        <option value="datev">дате выхода</option>
+        <option value="ratng">рейтингу</option>
+        </select>
+      </td>
+      <td><select name="pagin" id_="pagin">
+        <option value="10">10 на страницу</option>
+        <option value="25">25 на страницу</option>
+        </select>
+      </td>
+      <td><button type="submit" onclick="validate_add()">Поиск</td>
+      
+    </tr>
+  </table>
+  ---------------------------------------------------------------------------------------------
+    <script>
+      function validate() {
+        var year_from = document.getElementById("god_ot").value;
+        var year_to = document.getElementById("god_do").value;
+        var current_year = new Date().getFullYear();
+        // Если оба поля пустые - то допустимо
+        if ( year_from === "" && year_to === "") {
+          return true;
+        }
+
+
+        // Проверить, что годы не меньше 1870 и не больше текущего года
+        
+        if (year_from < 1870 || year_from > current_year || year_to < 1870 || year_to > current_year) {
+           alert("Год должен быть в диапазоне от 1870 до " + current_year);
+          return false;
+        }
+        // Проверить, что начало диапазона не больше конца
+        if (year_from > year_to) {
+        alert("Начало диапазона не может быть больше конца");
+        return false;
+        }
+        // Если все проверки пройдены, отправить форму
+        // return true;
+      }
+
+    </script>
+    
+</form>
+<div class="dskr-item">
+{% if page > 1 %}
+   <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page=1">В начало</a>
+  {% else %}
+  В начало
+  {% endif %}
+   |
+  {% if page > 1 %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ page - 1 }}">{{ page - 1 }}<--Назад </a>
+  {% else %}
+   X<--Назад
+  {% endif %}
+   |
+  Страница {{ page }}
+    |
+  {% if page < n_pages  %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ page + 1 }}">Вперед-->{{ page + 1 }}</a>
+  {% else %}
+  Вперед-->X
+  {% endif %}
+    |
+  {% if page < n_pages %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ n_pages }}"> На последнюю</a>
+  {% else %}
+  На последнюю 
+  {% endif %}  
+  <span class="dskr2-item">|||  найдено: {{ n_entr }} на {{ n_pages }} страницах </span><br>
+  </div>
+   ===========================================================================
+
+{% for m in prch_th  %}
+  <div class="wrapper2">
+    <div>
+      {{ m.id }}. <span class="dskr-item">{{ m.film_name }}</span> <br>
+      <img class="user-poster" src="{{ m.poster }}" 
+         alt="Здесь нет изображения!!!" width="200" height="150" />
+       <br>
+      жанр: <span class="dskr-item">{{ m.janre_id }} </span><br>
+      режиссер: <span class="dskr-item">{{ m.rejiser}}</span> <br>
+      пользователь <span class="dskr-item">{{ m.user }} </span><br>
+      дата выхода: <span class="dskr-item">{{ m.release_date }}</span> <br>
+      рейтинг: <span class="dskr-item">{{ m.rate }}</span> <br>
+      {% if c_u is defined and c_u.name %}
+         {% if m.user == c_u.name or c_u.role_id == 1 %}
+         <a href="/editing?film_id={{ m.id }}">Редактировать</a>
+         {% endif %}
+      {% endif %}
+      
+      
+      {% if cur_role == 1 %}
+        Редактировать (адм) <br>
+      {% elif cur_user == m.id %}
+         Редактировать (плз) <br>
+      {% endif %}
+    </div>
+    <div class="dscr-unit">
+      {{ m.descript}}
+
+    </div>
+    
+  </div>  
+  --------------------------------------------------------------------------------------------- <br>
+  {% endfor %}
+  <div class="dskr-item">
+  {% if page > 1 %}
+   <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page=1">В начало</a>
+  {% else %}
+  В начало
+  {% endif %}
+   |
+  {% if page > 1 %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ page - 1 }}">{{ page - 1 }}<--Назад </a>
+  {% else %}
+   X<--Назад
+  {% endif %}
+   |
+  Страница {{ page }}
+    |
+  {% if page < n_pages  %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ page + 1 }}">Вперед-->{{ page + 1 }}</a>
+  {% else %}
+  Вперед-->X
+  {% endif %}
+    |
+  {% if page < n_pages %}
+    <a href="/perechen?ff_n={{ f_filtr_name }}&jj_id={{ j_filtr_id }}&gg_ot={{ god_ot }}&gg_do={{ god_do }}&ww_sort={{ sortirovka }}&nn_pagin={{ paginacia }}&pp_page={{ n_pages }}"> На последнюю</a>
+  {% else %}
+  На последнюю 
+  {% endif %}  
+  <span class="dskr2-item">|||  найдено: {{ n_entr }} на {{ n_pages }} страницах</span>
+</div>
+{% endblock %}

@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+{% block content %}
+{{ super() }}
+ Редактирование существующего описания фильма <br>
+    Администратор редактирует любую запись. <br>
+    Пользователь редактирует только те, что сам создал <br>
+    Гости могут только просматривать
+    <form method="POST" action="/editing" id="addForm" enctype="multipart/form-data" class="dskr-item">
+        <table>
+        <tr>
+         <td><label for="f_name">Название фильма</label></td>
+         <td><input type="text" id="f_name" name="f_name" value="{{ opis.film_name }}"></td>
+       </tr>
+    
+       <tr>
+        <td><label for="f_desc">Краткое описание</label></td>
+        <td><textarea maxlength="500" cols="30" rows="5" wrap="soft" id="f_desc" name="f_desc"  placeholder="Пишите здесь (не более 500 символов)" value="{{ opis.descript }}">{{ opis.descript }}</textarea></td>
+        </tr><br>
+    
+        <tr>
+         <td><img class="user-poster" src="{{ opis.poster }}" 
+            alt="Здесь нет изображения!!!" width="200" height="150" />
+          <br></td>
+         <td><input type="file" name="fileToUpload" id="fileToUpload"><br> предпочтительно 200х150 px</td>
+        </tr>
+
+        <tr>
+            
+            <td><label for="janr">Жанр</label></td>
+            <td><label for="rejis">Режиссер</label></td>
+            <td><label for="rel_date">Дата выхода</label></td>
+        </tr>
+         
+        <tr>
+            <td><select name="janr" id="janr">
+                {% for m in janre_list %}
+                 <option value="{{ m.id }}" {% if m.id == opis.janre_id %}selected{% endif %}> {{ m.j_name }}</option>
+                 {% endfor %}
+                </select></td>
+    
+            <td><select name="regis" id="regis">
+                {% for m in regis_list %}
+                <option value="{{ m.id }}" {% if m.id == opis.rejiser %}selected{% endif %}>{{ m.r_name }}</option>
+                {% endfor %}
+             </select></td>
+
+            <td><input type="date" name="rel_date" id="rel_date" value="{{ opis.release_date.strftime('%Y-%m-%d') }}"></td>
+
+        </tr>
+        <td><button type="submit" onclick="validate()">Сохранить изменения</td>
+        </table>
+        <input type="hidden" name="film_id" id="film_id" value="{{ opis.id }}">
+    </form>
+        <script>
+          document.getElementById('addForm').addEventListener('submit', function(event) {
+            var fName = document.getElementById('f_name').value;
+            var fDesc = document.getElementById('f_desc').value;
+            var inputDate = document.getElementById('rel_date').value;
+            var Rdate = new Date(inputDate);
+            var minDate = new Date('1870-01-01');
+            var today = new Date();
+            var fileInput = document.getElementById('fileToUpload');
+            var file = fileInput.files[0];
+            var Rej = document.getElementById('regis');
+            var Janr = document.getElementById('janr');
+           
+            // Проверка названия фильма
+            if (fName.length < 5) {
+               alert('Название фильма должно содержать минимум 5 символов.');
+                 event.preventDefault(); // Останавливаем отправку формы
+              }
+            // Проверка описания фильма
+            if (fDesc.length < 10) {
+              alert('Краткое описание должно содержать минимум 10 символов.');
+              event.preventDefault(); // Останавливаем отправку формы
+              }
+        
+            // Проверка файла: размер и тип
+            if (file) {
+             var fileSize = file.size / 1024 / 1024; // Размер файла в мегабайтах
+             var fileType = file.type.split('/').pop().toLowerCase();
+             var allowedTypes = ['png', 'gif', 'bmp', 'jpg', 'jpeg'];
+
+            if (fileSize > 1.5) {
+              alert('Размер файла не должен превышать 1.5 МБ.');
+              event.preventDefault(); // Останавливаем отправку формы
+            } else if (!allowedTypes.includes(fileType)) {
+              alert('Недопустимый тип файла. Допустимые типы: png, gif, bmp, jpg, jpeg.');
+              event.preventDefault(); // Останавливаем отправку формы
+              }
+            } 
+            //  Можно и не апдейтить файл. 
+            //else {
+            //  alert('Пожалуйста, выберите файл для загрузки.');
+            //  event.preventDefault(); // Останавливаем отправку формы
+              }
+             
+            if (inputDate) {  
+               if (Rdate < minDate || Rdate > today) {
+                  alert('Дата должна быть в диапазоне от 01.01.1870 до текущей даты');
+                  event.preventDefault();
+                   }
+                  } else {
+                    alert('выберите корректную дату');
+                    event.preventDefault();
+                  }
+                  
+            if (Rej.value === '-8') {
+                // Ничего не выбрано
+              alert('Выбирайте режиссера!!');
+              event.preventDefault();
+            }
+            
+            if (Janr.value === '-8') {
+              alert('Выбирайте жанр!!');
+              event.preventDefault();
+            }
+
+            });
+        
+         </script>
+<br>=============================================================
+<br>
+<a href="/deleting?film_id={{ opis.id }}&film_name={{ opis.film_name }}">Удалить это описание</a>
+
+{% endblock %}

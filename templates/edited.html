@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+{{ super() }}
+<span class="dskr-item">--------------------- Результат редактирования ---------------------</span>
+<br>
+{{ result }}
+<br>
+<a href="/perechen?ff_n={{ f_n }}&pp_page=1">перейти к описанию "{{ f_n }}"</a>
+{% endblock %}

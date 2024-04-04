@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+{{ super() }}
+<span class="dskr-item">-------------- Вы собираетесь удалить описание фильма {{ film_name }} -------------
+<br><span class="blinking-text">Вы в одном шаге от непоправимого действия</span>
+<br>Перед нажатием кнопки наберите в поле ввода:
+<br> Do it now!
+</span><br>
+<form method="POST" action="/deleting"><input type="hidden" name="film_id" id="film_id" value="{{ f_id }}">
+    <input type="hidden" name="film_name" id="film_name" value="{{ f_n }}">
+    <label for="f_control">введите строку-подтверждение</label>
+    <input type="text" id="f_control" name="f_control">
+    <button type="submit">Удалить этот пост</button>
+  
+</form>
+
+{% endblock %}
